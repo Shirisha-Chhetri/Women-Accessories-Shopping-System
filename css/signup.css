@@ -1,0 +1,77 @@
+/*sec4*/
+#sec4{
+	color: #c97ecc;
+	margin-top:5px;
+	height: 615px;
+}
+.heading{
+	font-weight: 600;
+	font-size: 40px;
+	color: #e79db2;
+	text-align: center;
+}
+.image{
+	height: 130px;
+	width: 150px;
+	align-content: center;
+	margin-left:40%;
+	margin-bottom: 4%;
+}
+.image1{
+	width: 499px;
+    height: 601px;
+    margin-top: 0pc;
+    margin-left: -2pc;
+}
+.sign{
+	border:2px solid #000;
+	width:90%;
+	padding: 20px;
+	margin-left:2pc;
+	border-radius: 8px;
+	text-align: center;
+}
+.sign label{
+	font-size: 20px;
+}
+.sign input{
+	height:30px;
+	width: 250px;
+	background-color:#f5e1e1;
+	border: none;
+}
+#namef{
+	margin-left: 95px;
+}
+#namel{
+	margin-left: 92px;
+}
+#email{
+	margin-left: 140px;
+}
+#user{
+	margin-left: 124px;
+}
+#pass{
+	margin-left: 107px;
+}
+#signin{
+	margin-top:18px;
+	font-size: 20px;
+	color: black;
+	background-color:#dc9999cf;
+	height: 50px;
+	border: none;
+	width: 350px;
+}
+.error{
+	color: red;
+	margin-left: 12pc;
+	font-size: 17px;
+}
+a{
+	color:black;
+}
+.login{
+	font-size: 22px;
+}

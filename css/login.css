@@ -1,0 +1,74 @@
+a:hover{
+	color:black;
+}
+a{
+	color: black;
+}
+.error{
+	color:red;
+	margin-left:14pc;
+}
+/*sec4*/
+#sec4{
+	margin-top:10px;
+}
+.head{
+	margin: 1% 32%;
+	color: #e79db2;
+	font-size: 40px;
+	padding-top:5%;
+}
+.image1{
+	width:550px;
+	height: 575px;
+}
+.image{
+	height: 130px;
+	width: 150px;
+	align-content: center;
+	margin-left:38%;
+	margin-bottom: 4%;
+}
+#user{
+	height: 40px;
+	width: 350px;
+	margin-left: 23%;
+	background-color:#f5e1e1;
+}
+#password{
+	margin-left: 23%;
+	height: 40px;
+	width: 350px;
+	background-color:#f5e1e1;
+	margin-top:0.5pc;
+}
+#login{
+	margin-left: 23%;
+	font-size: 22px;
+	color: black;
+	background-color:#dc9999cf;
+	height: 50px;
+	width: 350px;
+}
+#register{
+	margin-left: 23%;
+	font-size: 22px;
+	color: white;
+	background-color:#dc9999cf;
+	height: 50px;
+	width: 350px;
+}
+input,button{
+	border: none;
+}
+#togglePassword{
+	margin-left: -2pc;
+	margin-left:-2pc;
+    cursor: pointer;
+    color: black;
+}
+.or{
+	margin-left: 17pc;
+	font-size: 30px;
+	color: black;
+}

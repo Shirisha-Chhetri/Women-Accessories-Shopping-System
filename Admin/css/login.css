@@ -1,0 +1,80 @@
+a:hover{
+  color:black;
+}
+#sec2{
+  background-color:#e79db2  ;
+  height:55px;
+}
+.name{
+  font-weight: bold;
+  font-size:36px;
+  margin-left: 5pc;
+  color:black ;
+  font-family: Brush Script MT;
+}
+a:hover{
+	color:black;
+}
+a{
+	color: black;
+}
+.error{
+	color:red;
+	margin-left:12pc;
+}
+/*sec4*/
+#sec4{
+	margin-top:30px;
+}
+.head{
+	margin-left: 10pc;
+    margin-top: -3pc;
+	color: #e79db2;
+	font-size: 40px;
+	padding-top:5%;
+}
+.image1{
+	width:635px;
+	height: 575px;
+	margin-left: 32pc;
+    margin-top: -41%;
+}
+.image{
+	height: 130px;
+	width: 150px;
+	align-content: center;
+	margin-left:18%;
+	margin-bottom: 4%;
+}
+#user{
+	height: 40px;
+	width: 350px;
+	margin-left:10%;
+	background-color:#f5e1e1;
+}
+#password{
+	margin-left: 10%;
+	height: 40px;
+	width: 350px;
+	background-color:#f5e1e1;
+	margin-top:0.5pc;
+}
+#login{
+	margin-left:10%;
+	font-size: 22px;
+	color: black;
+	background-color:#dc9999cf;
+	height: 50px;
+	width: 350px;
+}
+.container i {
+    margin-left:-2pc;
+    cursor: pointer;
+    color: black;
+}
+input,button{
+	border: none;
+}
+#togglePassword{
+	margin-left: -2pc;
+}
